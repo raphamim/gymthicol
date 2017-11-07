@@ -1,4 +1,5 @@
 <?php 
+    $title = "article";
     include 'partial/header.php';
 ?>
         <!--

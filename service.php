@@ -1,4 +1,5 @@
 <?php 
+    $title = "Nos valeurs";
     include 'partial/header.php';
 ?>
 

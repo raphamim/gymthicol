@@ -1,5 +1,6 @@
 <?php 
-include 'partial/header.php';
+    $title = "A propos";
+    include 'partial/header.php';
 ?>
         <!-- 
         ================================================== 

@@ -1,4 +1,5 @@
 <?php 
+    $title = "Contact";
     include 'partial/header.php';
 ?>
         <!-- 
