@@ -89,7 +89,7 @@
                                 <a href="index.php" >Accueil</a>
                             </li>
                             <li><a href="about.php">A propos</a></li>
-                            <li><a href="service.php">Produit</a></li>
+                            <li><a href="service.php">Valeurs</a></li>
                             <li><a href="blog.php">Blog</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>

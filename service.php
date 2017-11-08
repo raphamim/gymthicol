@@ -1,32 +1,8 @@
 <?php 
-    $title = "Nos valeurs";
+    $title = "Valeurs";
     include 'partial/header.php';
+    include 'partial/breadcrumb.php';
 ?>
-
-        <!-- 
-        ================================================== 
-            Global Page Section Start
-        ================================================== -->
-        <section class="global-page-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="block">
-                            <h2>Service</h2>
-                            <ol class="breadcrumb">
-                                <li>
-                                    <a href="index.html">
-                                        <i class="ion-ios-home"></i>
-                                        Home
-                                    </a>
-                                </li>
-                                <li class="active">Service</li>
-                            </ol>
-                        </div>
-                    </div>
-                </div>
-            </div>   
-        </section><!--/#Page header-->
 
 
         <!-- 

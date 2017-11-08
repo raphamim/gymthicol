@@ -99,19 +99,6 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-lg-4 col-xs-12">
-                                <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                    <div class="media-left">
-                                        <div class="icon">
-                                            <i class="ion-ios-lightbulb-outline"></i>
-                                        </div>
-                                    </div>
-                                    <div class="media-body">
-                                        <h3 class="media-heading">Well documented.</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-lg-4 col-xs-12">
                                 <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="1200ms">
                                     <div class="media-left">
                                         <div class="icon">
@@ -120,32 +107,6 @@
                                     </div>
                                     <div class="media-body">
                                         <h3 class="media-heading">Free updates</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-lg-4 col-xs-12">
-                                <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="1500ms">
-                                    <div class="media-left">
-                                        <div class="icon">
-                                            <i class="ion-ios-keypad-outline"></i>
-                                        </div>
-                                    </div>
-                                    <div class="media-body">
-                                        <h3 class="media-heading">Solid Support</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-lg-4 col-xs-12">
-                                <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="1800ms">
-                                    <div class="media-left">
-                                        <div class="icon">
-                                            <i class="ion-ios-barcode-outline"></i>
-                                        </div>
-                                    </div>
-                                    <div class="media-body">
-                                        <h3 class="media-heading">Simple Installation</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.</p>
                                     </div>
                                 </div>
