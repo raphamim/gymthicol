@@ -12,24 +12,23 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="block">
-                            <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contact With Me</h2>
+                            <h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Contactez-nous</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, ea!
-                                 consectetur adipisicing elit. Dolore, ea!
+                                Une question ? Une suggestion ? Ecrivez-nous !
                             </p>
                             <div class="contact-form">
                                 <form id="contact-form" method="post" action="contact.php" role="form">
                         
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-                                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+                                        <input type="text" placeholder="Votre nom" class="form-control" name="name" id="name">
                                     </div>
                                     
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-                                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email" >
+                                        <input type="email" placeholder="Votre Email" class="form-control" name="email" id="email" >
                                     </div>
                                     
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
-                                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
+                                        <input type="text" placeholder="Sujet" class="form-control" name="subject" id="subject">
                                     </div>
                                     
                                     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
@@ -38,7 +37,7 @@
                                     
                                     
                                     <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
-                                        <input type="submit" id="contact-submit" class="btn btn-default btn-send" value="Send Message">
+                                        <input type="submit" id="contact-submit" class="btn btn-default btn-send" value="Envoyer">
                                     </div>                      
                                     
                                 </form>
@@ -47,10 +46,9 @@
                     </div>
                     <div class="col-md-6">
                          <div class="map-area">
-                            <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Find Us</h2>
+                            <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Trouvez-nous</h2>
                             <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                                Si aute quis eu proident o cupidatat ne anim nescius, et est praesentibus, o quorum vidisse expetendis, nostrud eram quibusdam ad nam nostrud ubi.
-                                
+                                Gymthicol existe aussi en vrai, préparez votre itinéraire avec <a href="https://maps.google.com/">Google Map </a>! 
                             </p>
                             <div class="map">
                                 <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUSI4AYNy5kcRPZWsGvLE7I8&key=AIzaSyDz4IFPe6HVB0FZsIyKh3aIQUsULZMFmno" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -69,7 +67,7 @@
                     <div class="col-md-3">
                         <div class="email wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
                             <i class="ion-ios-email-outline"></i>
-                            <p>contact@gymthicol.com</p>
+                            <a href="mailto:contact@gymthicol.com"><p>contact@gymthicol.com</p></a>
                         </div>
                     </div>
                     <div class="col-md-3">

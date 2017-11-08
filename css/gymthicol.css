@@ -1,3 +1,21 @@
 .cd-intro h1 span {
     text-transform: capitalize;
 }
+
+footer .container .col-md-8 {
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#service-page .col-md-6 {
+    text-align: center;
+}
+
+header .navbar-brand {
+    height: 55px;
+}
+header .navbar-brand a {
+    margin-top: 0 !important;
+}

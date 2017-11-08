@@ -76,7 +76,7 @@
                     <!-- logo -->
                     <div class="navbar-brand">
                         <a href="index.php" >
-                            <img src="images/logo.png" alt="">
+                            <img src="images/gymthicol-logo.png" alt="logo de Gymthicol">
                         </a>
                     </div>
                     <!-- /logo -->

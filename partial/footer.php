@@ -7,31 +7,9 @@
                 <div class="container">
                     <div class="col-md-8">
                         <p class="copyright">Copyright: <span><?= date("Y");  ?></span> <b>Gymthicol</b></p>
-                    </div>
-                    <div class="col-md-4">
-                        <!-- Social Media -->
-                        <ul class="social">
-                            <li>
-                                <a href="http://wwww.fb.com/themefisher" class="Facebook">
-                                    <i class="ion-social-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://wwww.twitter.com/themefisher" class="Twitter">
-                                    <i class="ion-social-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="Linkedin">
-                                    <i class="ion-social-linkedin"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://wwww.fb.com/themefisher" class="Google Plus">
-                                    <i class="ion-social-googleplus"></i>
-                                </a>
-                            </li>
-                        </ul>
+                        <address>27 rue du progrès</address>
+                        <a href="mailto:contact@gymthicol.com"><p>contact@gymthicol.com</p></a>
+                        <a href="tel:0141727771"><p>+33 1 41 72 77 71</p></a>
                     </div>
                 </div>
             </footer> <!-- /#footer -->

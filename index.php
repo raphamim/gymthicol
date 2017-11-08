@@ -44,7 +44,7 @@
                             <div class="col-md-6 col-sm-6">
                                 <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
                                     <h2>
-                                    ABOUT ME
+                                        A propos de nous
                                     </h2>
                                     <p>
                                         Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries
@@ -57,7 +57,7 @@
                             </div>
                             <div class="col-md-6 col-sm-6">
                                 <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                                    <img src="images/about/about.jpg" alt="">
+                                    <img src="images/about/about.jpg" alt="verre de gymthicol">
                                 </div>
                             </div>
                         </div>
