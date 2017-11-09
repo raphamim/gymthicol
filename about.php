@@ -15,12 +15,12 @@
                     </div>
                     <div class="col-md-6">
                         <div class="block">
-                            <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Why We are Different</h3>
+                            <h2 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Pourquoi nous sommes différent</h2>
                             <p  class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Tous les ingrédients de Gymthicol Energy Drink sont issus d’une agriculture 100% biologique et sont contrôlés et certifiés selon les directives les plus strictes. Tous les fruits, les jus, la caféine et les thés proviennent de plantations biologiques. Ces fermes, cultures, stockage et l'ensemble du processus de production sont constamment surveillés. Des institutions indépendantes, autorisées par l'État, vérifient et certifient les produits.
                             </p>
                             <p  class="wow fadeInUp" data-wow-delay=".7s" data-wow-duration="500ms">
-                                Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+                                Notre gamme de boisson énergisante Gymthicol se décline en plusieurs saveurs : pêche, lime, thé vert, orange, pamplemousse, carottes, grenades provenant elles aussi d’une agriculture biologique. Elles se combinent très bien avec des eaux pétillantes et des jus de fruits pour des cocktails explosifs et revitalisants.
                             </p>
                             
                         </div>
@@ -38,74 +38,29 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="block about-feature-1 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
-                        <h2>
-                        Why Choose Us
-                        </h2>
+                        <h3>
+                        Le naturel
+                        </h3>
                         <p>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+                            La caféine utilisée pour <b>Gymthicol</b> Energy est issue de véritables plantes de guarana bio provenant du Vénézuela et attentivement sélectionnée. Le guarana est l’une des sources les plus riches de caféine, contenant jusqu’à trois fois la teneur de caféine des grains de café.  Les boissons énergétiques conventionnelles contiennent uniquement de la caféine synthétique, contrairement à <b>Gymthicol</b>. Le guarana bio présent dans <b>Gymthicol</b> energy drink boisson augmente la vigilance mentale, lutte contre la fatigue, améliore la résistance et l’endurance physique. 
                         </p>
                     </div>
                     <div class="block about-feature-2 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
-                        <h2 class="item_title">
-                        What You Get
-                        </h2>
+                        <h3 class="item_title">
+                        L'énergie
+                        </h3>
                         <p>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+                            L'énergie de Gymthicol provient de la combinaison de la caféine naturelle (stimulant) et du sucre de canne entier (source d'énergie).
+                            Le sucre de canne entier est non raffiné et contient tous les minéraux contenus dans la canne à sucre - en particulier le fer, le magnésium et le calcium, ainsi que les vitamines B. De plus l’une des caractéristiques de ce sucre est son mielleux goût de caramel; un vrai régal pour les sens.
                         </p>
                     </div>
                     <div class="block about-feature-3 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".7s">
-                        <h2 class="item_title">
+                        <h3 class="item_title">
                         Meet The Energy
-                        </h2>
+                        </h3>
                         <p>
                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--
-        ==================================================
-        Clients Section Start
-        ================================================== -->
-        <section id="clients">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="subtitle text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Our Happy Clinets</h2>
-                        <p class="subtitle-des text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.</p>
-                        <div id="clients-logo" class="owl-carousel">
-                            <div>
-                                <img src="images/clients/logo-1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-3.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-4.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-5.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-3.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-4.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="images/clients/logo-5.jpg" alt="">
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
