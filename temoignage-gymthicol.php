@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Natasha témoigne sur son expérience Gymthicol</h2>
+                            <h1>Natasha témoigne sur son expérience Gymthicol</h1>
                             <div class="portfolio-meta">
                                 <span>08/11/2017</span>|
                                 <span> Tags: <b>témoignage</b>, <b>mode de vie</b>, <b>gymthicol</b></span>
@@ -31,8 +31,8 @@
                                 <img class="img-responsive" alt="temoigne de natasha sur gymthicol" src="images/blog/post-1.jpg">
                             </div>
                             <div class="post-content">
+                                <h2>Nous avons recueilli un témoignage sur la consommation de Gymthicol et nous sommes ravies de vous le faire partager :</h2>
                                 <p>
-                                    Nous avons recueilli un témoignage sur la consommation de Gymthicol et nous sommes ravies de vous le faire partager :
                                     Je m’appelle Natasha, j’ai 22 ans et je suis étudiante. Je vous partage ici ma propre expérience sur Gymthicol. Alors flop ou top ?
                                     J’ai tout d’abord connu cette boissons énergisante à la suite d’un spot publicitaire, mais je n’osais pas sauter le pas, j’étais récalcitrante. Quel erreur !
                                     Pas plus tard que jeudi dernier, il m’était alors impossible de terminer ma journée sans terminer sous les rotules ! Entre mes études et mon emploi à mi-temps à Starbucks, je n’ai pas un moment à moi pour me reposer !
@@ -51,7 +51,7 @@
                                 </p>
                             </div>
                             <ul class="social-share">
-                                <h4>Partagez l'article</h4>
+                                <h3>Partagez l'article</h3>
                                 <li>
                                     <a href="https://www.facebook.com/" class="Facebook" target="_blank">
                                         <i class="ion-social-facebook"></i>
