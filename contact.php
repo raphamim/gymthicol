@@ -1,5 +1,7 @@
 <?php 
     $title = "Contact";
+    $description = "Venez discuter avec nous sur votre expérience gymthicol";
+    $keywords = "Gymthicol, contact, question";
     include 'partial/header.php';
     include 'partial/breadcrumb.php';
 ?>

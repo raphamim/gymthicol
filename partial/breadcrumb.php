@@ -10,7 +10,7 @@
                             <h1> <?= $title; ?></h1>
                             <ol class="breadcrumb">
                                 <li>
-                                    <a href="index.html">
+                                    <a href="index.php">
                                         <i class="ion-ios-home"></i>
                                         Accueil
                                     </a>

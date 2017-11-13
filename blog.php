@@ -1,5 +1,7 @@
 <?php 
     $title = "Blog";
+    $description = "Voici les dernières actualités et articles sur gymthicol";
+    $keywords = "Gymthicol, actualités, blog, témoignage";
     include 'partial/header.php';
     include 'partial/breadcrumb.php';
 ?>
@@ -10,20 +12,21 @@
                         <div class="col-md-12">
                             <article class="wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">
                                 <div class="blog-post-image">
-                                    <img class="img-responsive" src="images/blog/post-1.jpg" alt="" />
+                                    <img class="img-responsive" src="images/blog/post-1.jpg" alt="temoigne de natasha sur gymthicol" />
                                 </div>
                                 <div class="blog-content">
                                     <h2 class="blogpost-title">
-                                    Space shouldn’t be the final frontier
+                                    Natasha témoigne sur son expérience Gymthicol
                                     </h2>
                                     <div class="blog-meta">
-                                        <span>Dec 11, 2020</span>
-                                        <span>by Admin</span>
-                                        <span>business,people</span>
+                                    <span>08/11/2017</span> | 
+                                    <span> Tags: <b>témoignage</b>, <b>mode de vie</b>, <b>gymthicol</b></span>
                                     </div>
-                                    <p>Ultrices posuere cubilia curae curabitur sit amet tortor ut massa commodo. Vestibulum consectetur euismod malesuada tincidunt cum. Sed ullamcorper dignissim consectetur ut tincidunt eros sed sapien consectetur dictum. Pellentesques sed volutpat ante, cursus port. Praesent mi magna, penatibus et magniseget dis parturient montes sed quia consequuntur magni dolores eos qui ratione.
+                                    <p>Nous avons recueilli un témoignage sur la consommation de Gymthicol et nous sommes ravies de vous le faire partager :
+                                    Je m’appelle Natasha, j’ai 22 ans et je suis étudiante. Je vous partage ici ma propre expérience sur Gymthicol. Alors flop ou top ?
+                                    J’ai tout d’abord connu cette boissons énergisante à la suite d’un spot publicitaire, mais je n’osais pas sauter le pas, j’étais récalcitrante. Quel ...
                                     </p>
-                                    <a href="single-post.php" class="btn btn-dafault btn-details">Continue Reading</a>
+                                    <a href="temoignage-gymthicol.php" class="btn btn-dafault btn-details">Continuer à lire</a>
                                 </div>
                             </article>
                         </div>

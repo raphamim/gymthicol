@@ -1,5 +1,7 @@
      <?php 
         $title = "Accueil";
+        $description = "Bienvenue sur la page d'accueil de Gymthicol, venez découvrir la nouvelle boisson énergisante";
+        $keywords = "Gymthicol, Boisson Energisante, vitalité";
         include 'partial/header.php';
      ?>
       <!--
