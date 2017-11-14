@@ -2,6 +2,7 @@
     $title = "témoignage d'expérience gymthicol";
     $description = "Voici le témoignage de Natasha, 22 ans, sur sa consommation gymthicol";
     $keywords = "Gymthicol, témoignage, blog";
+    $path = "https://gymthicol.eu/temoignage-gymthicol.php";
     include 'partial/header.php';
 ?>
         <!--

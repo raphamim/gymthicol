@@ -1,7 +1,8 @@
 <?php 
     $title = "A propos";
-    $description = "A propos de nous, les origines de gymthicol";
+    $description = "Une présentation dédiée à la présentation de la marque et de la gamme de produit Gymthicol. Notre gamme de boisson Gymthicol est biologique et issue du commerce équitable.";
     $keywords = "gymthicol, boisson Energisante, biologique, écologique";
+    $path = "https://gymthicol.eu/about.php";
     include 'partial/header.php';
     include 'partial/breadcrumb.php';
 ?>

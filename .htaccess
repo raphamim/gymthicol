@@ -1,12 +1,12 @@
 <Files ~ "^\.(htaccess|htpasswd)$">
 deny from all
 </Files>
-Options -Indexes
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^(www\.gymthicol\.eu)(:80)? [NC]
-RewriteRule ^(.*) https://gymthicol.eu/$1 [R=301,L]
-DirectoryIndex https://gymthicol.eu/       
-Redirect permanent http://gymthicol.eu/ https://gymthicol.eu/
-Redirect permanent http://gymthicol.eu/index.php https://gymthicol.eu/
-Redirect permanent https://gymthicol.eu/index.php https://gymthicol.eu/
+RewriteCond %{HTTPS} !=on
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]  
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
 order deny,allow
