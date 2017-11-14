@@ -1,5 +1,5 @@
 <?php 
-    $title = "Blog";
+    $title = "Les actualités, témoignages, et réactions sur notre blog";
     $description = "Le blog de la marque Gymthicol. Des témoignages et articles pertinents. Articles d’une grande qualité réalisé par le service communication de Gymthicol.";
     $keywords = "Gymthicol, actualités, blog, témoignage";
     $path = "https://gymthicol.eu/blog.php";

@@ -1,5 +1,5 @@
 <?php 
-    $title = "Valeurs";
+    $title = "Découvrez les valeurs au service de notre boisson";
     $description = "Les valeurs Gymthicol en 3 points clés : biologique, naturelle et écologique. L’impact des entreprises sur l’environnement est une priorité pour la société Gymthicol.";
     $keywords = "Gymthicol, valeurs, points clés";
     $path = "https://gymthicol.eu/service.php";

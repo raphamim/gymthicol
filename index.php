@@ -1,5 +1,5 @@
      <?php 
-        $title = "Accueil";
+        $title = "Découvrez la nouvelle boisson énergisante biologique";
         $description = "Bienvenue sur la page d'accueil de Gymthicol, venez découvrir la nouvelle boisson énergisante";
         $keywords = "Gymthicol, Boisson Energisante, vitalité";
         $path = "https://gymthicol.eu/";

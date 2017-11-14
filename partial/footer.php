@@ -11,6 +11,22 @@
                         <a href="mailto:contact@gymthicol.com"><p>contact@gymthicol.com</p></a>
                         <a href="tel:0141727771"><p>+33 1 41 72 77 71</p></a>
                     </div>
+                    <div class="col-md-4">
+                    <!-- Social Media -->
+                    <ul class="social">
+                        <li>
+                            <a href="https://facebook.com/GymthicolFrance/" class="Facebook" target="_blank">
+                                <i class="ion-social-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://instagram.com/gymthicolfrance" class="Instagram" target="_blank">
+                                <i class="ion-social-instagram"></i>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
                 </div>
             </footer> <!-- /#footer -->
         </body>

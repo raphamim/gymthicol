@@ -1,5 +1,5 @@
 <?php 
-    $title = "Contact";
+    $title = "Une suggestion, une intérrogation ? Prenons contact ";
     $description = "Sur cette page vous pouvez contacter le service client de Gymthicol et également trouver l’adresse de notre siège social. Retours clients et partenariats bienvenus.";
     $keywords = "Gymthicol, contact, question";
     $path = "https://gymthicol.eu/contact.php";
