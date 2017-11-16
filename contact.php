@@ -2,7 +2,7 @@
     $title = "Une suggestion, une intérrogation ? Prenons contact ";
     $description = "Sur cette page vous pouvez contacter le service client de Gymthicol et également trouver l’adresse de notre siège social. Retours clients et partenariats bienvenus.";
     $keywords = "Gymthicol, contact, question";
-    $path = "https://gymthicol.eu/contact.php";
+    $path = "https://www.gymthicol.eu/contact.php";
     include 'partial/header.php';
     include 'partial/breadcrumb.php';
 ?>
@@ -54,8 +54,7 @@
                                 Gymthicol existe aussi en vrai, préparez votre itinéraire avec <a href="https://maps.google.com/">Google Map </a>! 
                             </p>
                             <div class="map">
-                                <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJUSI4AYNy5kcRPZWsGvLE7I8&key=AIzaSyDz4IFPe6HVB0FZsIyKh3aIQUsULZMFmno" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-                                
+                                <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:EiozIFJ1ZSBSb2Jlc3BpZXJyZSwgOTMxMDAgTW9udHJldWlsLCBGcmFuY2U&key=AIzaSyDz4IFPe6HVB0FZsIyKh3aIQUsULZMFmno" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -64,7 +63,7 @@
                     <div class="col-md-3">
                         <div class="address wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".5s">
                             <i class="ion-ios-location-outline"></i>
-                            <address>27 Rue du Progrès, <br>93100 Montreuil</address>
+                            <address>3 rue Robespierre, <br>93100 Montreuil</address>
                         </div>
                     </div>
                     <div class="col-md-3">

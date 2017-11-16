@@ -1,8 +1,8 @@
      <?php 
         $title = "Découvrez la nouvelle boisson énergisante biologique";
-        $description = "Bienvenue sur la page d'accueil de Gymthicol, venez découvrir la nouvelle boisson énergisante";
+        $description = "Bienvenue sur la page d'accueil de Gymthicol, venez découvrir la nouvelle boisson énergisante tendance, biologique et écologique. Gymthicol est engagé en faveur du développement durable.";
         $keywords = "Gymthicol, Boisson Energisante, vitalité";
-        $path = "https://gymthicol.eu/";
+        $path = "https://www.gymthicol.eu/";
         include 'partial/header.php';
      ?>
       <!--

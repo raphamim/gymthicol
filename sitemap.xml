@@ -6,38 +6,38 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://gymthicol.eu/</loc>
-  <lastmod>2017-11-13T12:40:39+00:00</lastmod>
+  <loc>https://www.gymthicol.eu/</loc>
+  <lastmod>2017-11-16T11:45:39+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://gymthicol.eu/about.php</loc>
-  <lastmod>2017-11-13T12:40:39+00:00</lastmod>
+  <loc>https://www.gymthicol.eu/about.php</loc>
+  <lastmod>2017-11-16T11:45:39+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gymthicol.eu/service.php</loc>
-  <lastmod>2017-11-13T12:40:39+00:00</lastmod>
+  <loc>https://www.gymthicol.eu/service.php</loc>
+  <lastmod>2017-11-16T11:45:39+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gymthicol.eu/blog.php</loc>
-  <lastmod>2017-11-13T12:40:39+00:00</lastmod>
+  <loc>https://www.gymthicol.eu/blog.php</loc>
+  <lastmod>2017-11-16T11:45:39+00:00</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gymthicol.eu/contact.php</loc>
-  <lastmod>2017-11-13T12:40:39+00:00</lastmod>
+  <loc>https://www.gymthicol.eu/contact.php</loc>
+  <lastmod>2017-11-16T11:45:39+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://gymthicol.eu/temoignage-gymthicol.php</loc>
-  <lastmod>2017-11-13T12:40:39+00:00</lastmod>
+  <loc>https://www.gymthicol.eu/temoignage-gymthicol.php</loc>
+  <lastmod>2017-11-16T11:45:39+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
