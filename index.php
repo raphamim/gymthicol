@@ -18,17 +18,17 @@
                                 <!-- Slider -->
                                 <section class="cd-intro">
                                     <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-                                    <span>Gymthicol, la nouvelle boisson énergisante</span><br>
+                                    <span>Gymthicol, la nouvelle boisson</span><br>
                                     <span class="cd-words-wrapper">
-                                        <b class="is-visible">Naturel</b>
-                                        <b>Ecologie</b>
-                                        <b>Energie</b>
+                                        <b class="is-visible">Naturelle</b>
+                                        <b>Ecologique</b>
+                                        <b>Energétique</b>
                                     </span>
                                     </h1>
                                     </section> <!-- cd-intro -->
                                     <!-- /.slider -->
                                     <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                    La boisson énergique Bio, un élixir de vitalité. Gymthicol ravive, rafraîchit et vous donne de l’énergie de manière naturelle. Essayez-le et l'excitation vient naturellement ...
+                                    Un concentré naturel  de bonne humeur, d’énergie et de vitalité à emporter partout avec vous. Essayez-le et l’excitation viendra au naturel.
                                     </h2>
                                     <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay=".9s" href="#about" data-section="#about" >En savoir plus</a>
                                     
