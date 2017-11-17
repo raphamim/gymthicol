@@ -1,6 +1,4 @@
-<Files ~ "^\.(htaccess|htpasswd)$">
-deny from all
-</Files>
+
 RewriteEngine on
 RewriteCond %{HTTPS} !=on
 RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]  
@@ -9,4 +7,3 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} !^www\.
 RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
-order deny,allow
