@@ -16,7 +16,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
-        <link rel="canonical" href="<?= $path; ?>" />
+        <!-- <link rel="canonical" href="$path;" /> -->
         <!-- Template CSS Files
         ================================================== -->
         <!-- Twitter Bootstrs CSS -->
@@ -85,7 +85,7 @@
                     
                     <!-- logo -->
                     <div class="navbar-brand">
-                        <a href="index.php" >
+                        <a href="https://www.gymthicol.eu/" >
                             <img src="images/gymthicol-logo.png" alt="logo de Gymthicol">
                         </a>
                     </div>
