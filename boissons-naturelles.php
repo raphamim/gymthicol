@@ -1,5 +1,5 @@
 <?php 
-    $title = "témoignage d'expérience gymthicol";
+    $title = "Notre liste des boissons énergisantes";
     $description = "Le service communication de la société Gymthicol vous a préparé une liste des boissons énergisantes naturelles avec des saveurs que vous retrouverez dans notre gamme de produit.";
     $keywords = "Gymthicol, conseils, blog";
     $path = "https://www.gymthicol.eu/boissons-naturelles.php";
