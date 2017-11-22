@@ -7,5 +7,39 @@ RewriteEngine on
 RewriteCond %{HTTPS} !=on
 RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]  
 
+Redirect "https://www.gymthicol.eu/index.php" "https://www.gymthicol.eu"
+Redirect "https://www.gymthicol.eu/" "https://www.gymthicol.eu"
+Redirect "https://www.gymthicol.eu/blog.php/" "https://www.gymthicol.eu/blog.php"
 
+<IfModule mod_headers.c>
+Header always set X-FRAME-OPTIONS "DENY"
+Header always set X-XSS-Protection "1; mode=block"
+    # Servir des fichiers CSS compressés avec gzip, s'ils existent, et
+    # si le client accepte gzip.
+    RewriteCond "%{HTTP:Accept-encoding}" "gzip"
+    RewriteCond "%{REQUEST_FILENAME}\.gz" "-s"
+    RewriteRule "^(.*)\.css"              "$1\.css\.gz" [QSA]
+
+    # Servir des fichiers JS compressés avec gzip, s'ils existent, et
+    # si le client accepte gzip.
+    RewriteCond "%{HTTP:Accept-encoding}" "gzip"
+    RewriteCond "%{REQUEST_FILENAME}\.gz" "-s"
+    RewriteRule "^(.*)\.js"               "$1\.js\.gz" [QSA]
+
+
+    # Servir des types de contenus corrects, et empêcher mod_deflate
+    # d'effectuer un double gzip.
+    RewriteRule "\.css\.gz$" "-" [T=text/css,E=no-gzip:1]
+    RewriteRule "\.js\.gz$"  "-" [T=text/javascript,E=no-gzip:1]
+
+
+    <FilesMatch "(\.js\.gz|\.css\.gz)$">
+      # Servir le type de codage correct.
+      Header append Content-Encoding gzip
+
+      # Force les mandataires à mettre en cache séparément les fichiers
+      # css/js gzippés & non gzippés.
+      Header append Vary Accept-Encoding
+    </FilesMatch>
+</IfModule>
 
